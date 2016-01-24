@@ -8,8 +8,10 @@
 3. Refer https://gabrielecirulli.github.io/2048/ for further details.
 
 ***************** How To Compile **********************
+
 mvn clean package
 
 ***************** How To Run **********************
+
 java -cp target/2048-Console-Game-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.abandikatla.game.App
 
